@@ -1,0 +1,21 @@
+fileFormatVersion: 2
+guid: fb6f078882586a64dbc0692c1c1e920c
+timeCreated: 1502444416
+licenseType: Pro
+TrueTypeFontImporter:
+  serializedVersion: 4
+  fontSize: 500
+  forceTextureCase: -1
+  characterSpacing: 0
+  characterPadding: 1
+  includeFontData: 1
+  fontName: Barley Script PERSONAL USE
+  fontNames:
+  - Barley Script PERSONAL USE
+  fallbackFontReferences: []
+  customCharacters: 
+  fontRenderingMode: 1
+  ascentCalculationMode: 1
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 

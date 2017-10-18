@@ -1,0 +1,259 @@
+fileFormatVersion: 2
+guid: 30c9fbe31938d8c448083f1ad9df5b70
+timeCreated: 1502213174
+licenseType: Pro
+TextureImporter:
+  fileIDToRecycleName:
+    21300000: shutterstock_401923060_0
+    21300002: shutterstock_401923060_1
+    21300004: shutterstock_401923060_4
+    21300006: shutterstock_401923060_5
+    21300008: shutterstock_401923060_6
+    21300010: shutterstock_401923060_7
+    21300012: shutterstock_401923060_8
+    21300014: shutterstock_401923060_10
+    21300016: shutterstock_401923060_11
+    21300018: shutterstock_401923060_12
+    21300020: shutterstock_401923060_13
+    21300022: shutterstock_401923060_14
+    21300024: shutterstock_401923060_15
+    21300026: shutterstock_401923060_16
+    21300028: shutterstock_401923060_17
+    21300030: shutterstock_401923060_18
+    21300032: shutterstock_401923060_19
+    21300034: shutterstock_401923060_20
+    21300036: shutterstock_401923060_21
+    21300038: shutterstock_401923060_22
+    21300040: shutterstock_401923060_23
+    21300042: shutterstock_401923060_24
+    21300044: shutterstock_401923060_25
+    21300046: shutterstock_401923060_26
+    21300048: shutterstock_401923060_27
+    21300050: shutterstock_401923060_28
+    21300052: shutterstock_401923060_29
+    21300054: shutterstock_401923060_30
+    21300056: shutterstock_401923060_31
+    21300058: shutterstock_401923060_32
+    21300060: shutterstock_401923060_33
+    21300062: shutterstock_401923060_34
+    21300064: shutterstock_401923060_35
+    21300066: shutterstock_401923060_36
+    21300068: shutterstock_401923060_37
+    21300070: shutterstock_401923060_38
+    21300072: shutterstock_401923060_39
+    21300074: shutterstock_401923060_40
+    21300076: shutterstock_401923060_41
+    21300078: shutterstock_401923060_42
+    21300080: shutterstock_401923060_43
+    21300082: shutterstock_401923060_44
+    21300084: shutterstock_401923060_45
+    21300086: shutterstock_401923060_46
+    21300088: shutterstock_401923060_47
+    21300090: shutterstock_401923060_48
+    21300092: shutterstock_401923060_49
+    21300094: shutterstock_401923060_50
+    21300096: shutterstock_401923060_51
+    21300098: shutterstock_401923060_52
+    21300100: shutterstock_401923060_53
+    21300102: shutterstock_401923060_54
+    21300104: shutterstock_401923060_55
+    21300106: shutterstock_401923060_56
+    21300108: shutterstock_401923060_57
+    21300110: shutterstock_401923060_58
+    21300112: shutterstock_401923060_59
+    21300114: shutterstock_401923060_60
+    21300116: shutterstock_401923060_2
+    21300118: shutterstock_401923060_3
+    21300120: shutterstock_401923060_9
+    21300122: shutterstock_401923060_61
+    21300124: shutterstock_401923060_62
+  serializedVersion: 4
+  mipmaps:
+    mipMapMode: 0
+    enableMipMap: 0
+    sRGBTexture: 1
+    linearTexture: 0
+    fadeOut: 0
+    borderMipMap: 0
+    mipMapFadeDistanceStart: 1
+    mipMapFadeDistanceEnd: 3
+  bumpmap:
+    convertToNormalMap: 0
+    externalNormalMap: 0
+    heightScale: 0.25
+    normalMapFilter: 0
+  isReadable: 0
+  grayScaleToAlpha: 0
+  generateCubemap: 6
+  cubemapConvolution: 0
+  seamlessCubemap: 0
+  textureFormat: 1
+  maxTextureSize: 2048
+  textureSettings:
+    filterMode: 0
+    aniso: -1
+    mipBias: -1
+    wrapMode: 1
+  nPOTScale: 0
+  lightmap: 0
+  compressionQuality: 50
+  spriteMode: 2
+  spriteExtrude: 1
+  spriteMeshType: 1
+  alignment: 0
+  spritePivot: {x: 0.5, y: 0.5}
+  spriteBorder: {x: 0, y: 0, z: 0, w: 0}
+  spritePixelsToUnits: 1
+  alphaUsage: 1
+  alphaIsTransparency: 1
+  spriteTessellationDetail: -1
+  textureType: 8
+  textureShape: 1
+  maxTextureSizeSet: 0
+  compressionQualitySet: 0
+  textureFormatSet: 0
+  platformSettings:
+  - buildTarget: DefaultTexturePlatform
+    maxTextureSize: 2048
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+  - buildTarget: Standalone
+    maxTextureSize: 2048
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+  - buildTarget: Android
+    maxTextureSize: 2048
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+  - buildTarget: WebGL
+    maxTextureSize: 2048
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+  spriteSheet:
+    serializedVersion: 2
+    sprites:
+    - serializedVersion: 2
+      name: shutterstock_401923060_4
+      rect:
+        serializedVersion: 2
+        x: 291
+        y: 382
+        width: 162
+        height: 171
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: shutterstock_401923060_5
+      rect:
+        serializedVersion: 2
+        x: 501
+        y: 361
+        width: 201
+        height: 213
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: shutterstock_401923060_6
+      rect:
+        serializedVersion: 2
+        x: 736
+        y: 359
+        width: 218
+        height: 218
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: shutterstock_401923060_2
+      rect:
+        serializedVersion: 2
+        x: 732
+        y: 81
+        width: 218
+        height: 218
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: shutterstock_401923060_3
+      rect:
+        serializedVersion: 2
+        x: 35
+        y: 77
+        width: 218
+        height: 218
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: shutterstock_401923060_9
+      rect:
+        serializedVersion: 2
+        x: 269
+        y: 78
+        width: 218
+        height: 218
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: shutterstock_401923060_62
+      rect:
+        serializedVersion: 2
+        x: 496
+        y: 79
+        width: 218
+        height: 218
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: shutterstock_401923060_0
+      rect:
+        serializedVersion: 2
+        x: 35
+        y: 357
+        width: 218
+        height: 218
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    outline: []
+  spritePackingTag: 
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 

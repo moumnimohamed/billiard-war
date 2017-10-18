@@ -1,0 +1,73 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!78 &1
+TagManager:
+  serializedVersion: 2
+  tags:
+  - jaune
+  - vert
+  - orange
+  - mauve
+  - rouge
+  - bleu
+  - maron
+  - noire
+  - ground
+  - bullet
+  - score
+  - enmy
+  layers:
+  - Default
+  - TransparentFX
+  - Ignore Raycast
+  - 
+  - Water
+  - UI
+  - 
+  - 
+  - eefect
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  m_SortingLayers:
+  - name: Default
+    uniqueID: 0
+    locked: 0
+  - name: floor
+    uniqueID: 3562324673
+    locked: 0
+  - name: player
+    uniqueID: 1177680229
+    locked: 0
+  - name: enmy
+    uniqueID: 3842974777
+    locked: 0
+  - name: border
+    uniqueID: 3315261455
+    locked: 0
+  - name: effect
+    uniqueID: 1017335831
+    locked: 0
+  - name: wall
+    uniqueID: 1897702759
+    locked: 0

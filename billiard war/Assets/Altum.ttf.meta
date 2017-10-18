@@ -1,0 +1,21 @@
+fileFormatVersion: 2
+guid: d4a7c380d6e2b65468fb30c968b5b59f
+timeCreated: 1502465135
+licenseType: Pro
+TrueTypeFontImporter:
+  serializedVersion: 4
+  fontSize: 200
+  forceTextureCase: -1
+  characterSpacing: 0
+  characterPadding: 1
+  includeFontData: 1
+  fontName: Altum
+  fontNames:
+  - Altum
+  fallbackFontReferences: []
+  customCharacters: 
+  fontRenderingMode: 1
+  ascentCalculationMode: 1
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 
